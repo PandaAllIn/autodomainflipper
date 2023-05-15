@@ -375,3 +375,17 @@ Code Reviews: If possible, have someone else review the code. This can provide v
 Automated Testing: Incorporate automated testing into your development process. This can help catch bugs early and ensures the software is working as expected as changes are made.
 
 Remember, the key to a successful long-term collaboration is clear communication, effective task management, and regular progress tracking.
+
+
+
+User
+ok perfect! thats how we are gona do it
+
+ChatGPT
+!
+You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again after 11:40 PM. Learn more
+
+Use default model
+
+
+
